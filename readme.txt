@@ -9,4 +9,9 @@ This is my first modification.
 This is my second modification.
 1.
 2.
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+Creating a new branch is quick AND simple.
+
+>>>>>>> fe1
